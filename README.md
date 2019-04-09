@@ -9,8 +9,8 @@ This assembly is made according to the instructions:
 * https://intestinate.com/pilfs/guide.html *
 
 Change locale to english:
-*nano /etc/profile.d/i18n.sh
-export LANG=en_EN.utf8*
+* nano /etc/profile.d/i18n.sh *
+* export LANG=en_EN.utf8 *
 
 ## Releases:
 
