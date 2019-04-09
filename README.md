@@ -5,8 +5,8 @@ Base system + nano,wget,mc,git,samba,openssh,links,python2,python3,grep,curl,rus
 
 This assembly is made according to the instructions:
 
-* http://www.linuxfromscratch.org/lfs/view/stable/ *
-* https://intestinate.com/pilfs/guide.html *
+* http://www.linuxfromscratch.org/lfs/view/stable/
+* https://intestinate.com/pilfs/guide.html
 
 Change locale to english:
 * nano /etc/profile.d/i18n.sh
