@@ -1,5 +1,6 @@
 # pilfs
-Linux From Scratch 8.4 on the Raspberry Pi 2-3
+
+Linux From Scratch 8.4 on the only Raspberry Pi 3
 Base system + nano,wget,mc,git,samba,openssh,links,python2,python3,grep,curl,russian locale,glib
 
 This assembly is made according to the instructions:
