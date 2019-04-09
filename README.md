@@ -10,8 +10,8 @@ This assembly is made according to the instructions:
 
 Change locale to english:
 
-nano /etc/profile.d/i18n.sh \ 
-export LANG=en_EN.utf8 
+#### nano /etc/profile.d/i18n.sh
+#### export LANG=en_EN.utf8
 
 ## Releases:
 
