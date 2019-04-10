@@ -3,7 +3,7 @@
 ## Linux From Scratch 8.4 on the only Raspberry Pi 3
 Base system + nano,wget,mc,git,samba,openssh,links,python2,python3,grep,curl,russian locale,glib
 
-* [youtube](https://www.youtube.com/watch?v=_R0oVOa2EVE&t=113s)
+* [youtube](https://www.youtube.com/watch?v=_R0oVOa2EVE&t=0s)
 
 This assembly is made according to the instructions:
 
